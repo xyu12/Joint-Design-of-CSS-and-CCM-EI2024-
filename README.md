@@ -1,1 +1,1 @@
-# Joint-Design-of-CSS-and-CCM-EI2024-
+# Joint-Design-of-Camera Spectral Sensitivity-and-Color Correction Matrix with Noise Consideration-EI2024-
